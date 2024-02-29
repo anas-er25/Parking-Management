@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Parking Central",
+        "type": "Underground",
+        "city": "New York"
+    },
+    {
+        "id": 2,
+        "name": "Parking Plaza",
+        "type": "Multi-level Garage",
+        "city": "Los Angeles"
+    },
+    {
+        "id": 3,
+        "name": "Downtown Parking",
+        "type": "Surface Lot",
+        "city": "Chicago"
+    },
+    {
+        "id": 4,
+        "name": "Metro Park",
+        "type": "Park and Ride",
+        "city": "Paris"
+    },
+    {
+        "id": 5,
+        "name": "City Center Garage",
+        "type": "Multi-level Garage",
+        "city": "Seattle"
+    },
+    {
+        "id": 6,
+        "name": "Park 'n Shop",
+        "type": "Open Lot",
+        "city": "London"
+    },
+    {
+        "id": 7,
+        "name": "Garage du Nord",
+        "type": "Underground",
+        "city": "Paris"
+    },
+    {
+        "id": 8,
+        "name": "Southside Parking",
+        "type": "Surface Lot",
+        "city": "Sydney"
+    },
+    {
+        "id": 9,
+        "name": "Grand Central Parking",
+        "type": "Multi-level Garage",
+        "city": "New York"
+    },
+    {
+        "id": 10,
+        "name": "Sunshine Parking",
+        "type": "Open Lot",
+        "city": "Miami"
+    }
+]
